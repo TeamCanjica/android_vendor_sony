@@ -496,7 +496,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/montblanc-common/proprietary/lib/ste_omxcomponents/libste_enc_jpeg.so:system/lib/ste_omxcomponents/libste_enc_jpeg.so \
     vendor/sony/montblanc-common/proprietary/lib/ste_omxcomponents/libste_dec_amr.so:system/lib/ste_omxcomponents/libste_dec_amr.so \
     vendor/sony/montblanc-common/proprietary/lib/libste_omxil-interface.so:system/lib/libste_omxil-interface.so \
-    vendor/sony/montblanc-common/proprietary/lib/libstagefright_omx.so:system/lib/libstagefright_omx.so \
     vendor/sony/montblanc-common/proprietary/lib/libprotobuf-c.so:system/lib/libprotobuf-c.so \
     vendor/sony/montblanc-common/proprietary/lib/hw/audio_policy.montblanc.so:system/lib/hw/audio_policy.montblanc.so \
     vendor/sony/montblanc-common/proprietary/lib/hw/gralloc.montblanc.so:system/lib/hw/gralloc.montblanc.so \

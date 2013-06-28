@@ -412,10 +412,8 @@ PRODUCT_COPY_FILES += \
     vendor/sony/montblanc-common/proprietary/lib/libstagefright_soft_ste_wmapro_v10.so:system/lib/libstagefright_soft_ste_wmapro_v10.so \
     vendor/sony/montblanc-common/proprietary/lib/libnmftimer.so:system/lib/libnmftimer.so \
     vendor/sony/montblanc-common/proprietary/lib/libUMP.so:system/lib/libUMP.so \
-    vendor/sony/montblanc-common/proprietary/lib/libbluedroid.so:system/lib/libbluedroid.so \
     vendor/sony/montblanc-common/proprietary/lib/libmalgss.so:system/lib/libmalgss.so \
     vendor/sony/montblanc-common/proprietary/lib/libmalcs.so:system/lib/libmalcs.so \
-    vendor/sony/montblanc-common/proprietary/lib/libbluetooth.so:system/lib/libbluetooth.so \
     vendor/sony/montblanc-common/proprietary/lib/libmalpipe.so:system/lib/libmalpipe.so \
     vendor/sony/montblanc-common/proprietary/lib/libstagefright_ste_aacdec.so:system/lib/libstagefright_ste_aacdec.so \
     vendor/sony/montblanc-common/proprietary/lib/libste_adm.so:system/lib/libste_adm.so \
@@ -434,7 +432,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/montblanc-common/proprietary/lib/libu300-parser.so:system/lib/libu300-parser.so \
     vendor/sony/montblanc-common/proprietary/lib/libste_ext_ens_image_common.so:system/lib/libste_ext_ens_image_common.so \
     vendor/sony/montblanc-common/proprietary/lib/libmpl.so:system/lib/libmpl.so \
-    vendor/sony/montblanc-common/proprietary/lib/libbluetoothd.so:system/lib/libbluetoothd.so \
     vendor/sony/montblanc-common/proprietary/lib/libmalnet.so:system/lib/libmalnet.so \
     vendor/sony/montblanc-common/proprietary/lib/liblos.so:system/lib/liblos.so \
     vendor/sony/montblanc-common/proprietary/lib/libcn.so:system/lib/libcn.so \

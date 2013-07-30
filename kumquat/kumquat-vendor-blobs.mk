@@ -32,7 +32,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/kumquat/proprietary/lib/libcameralight.so:system/lib/libcameralight.so \
     vendor/sony/kumquat/proprietary/lib/libcald_server.so:system/lib/libcald_server.so \
     vendor/sony/kumquat/proprietary/lib/libcamera_clientsemc.so:system/lib/libcamera_clientsemc.so \
-    vendor/sony/kumquat/proprietary/lib/libcameraservice.so:system/lib/libcameraservice.so \
     vendor/sony/kumquat/proprietary/usr/share/camera/config_file/aptina_mt9v115.dat:system/usr/share/camera/config_file/aptina_mt9v115.dat \
     vendor/sony/kumquat/proprietary/usr/share/camera/config_file/omnivision_ov5640_pri.dat:system/usr/share/camera/config_file/omnivision_ov5640_pri.dat \
     vendor/sony/kumquat/proprietary/usr/share/camera/config_file/omnivision_ov5640_sec.dat:system/usr/share/camera/config_file/omnivision_ov5640_sec.dat \

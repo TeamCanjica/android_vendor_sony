@@ -16,7 +16,6 @@
 
 PRODUCT_COPY_FILES += \
     vendor/sony/kumquat/proprietary/lib/libcald_pal.so:system/lib/libcald_pal.so \
-    vendor/sony/kumquat/proprietary/lib/libcamera_client.so:system/lib/libcamera_client.so \
     vendor/sony/kumquat/proprietary/lib/libcameraextensionjni.so:system/lib/libcameraextensionjni.so \
     vendor/sony/kumquat/proprietary/lib/libcald_hal.so:system/lib/libcald_hal.so \
     vendor/sony/kumquat/proprietary/lib/libals.so:system/lib/libals.so \

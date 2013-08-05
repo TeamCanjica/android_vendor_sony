@@ -64,6 +64,10 @@ PRODUCT_COPY_FILES += \
     vendor/sony/montblanc-common/proprietary/etc/psdata/stepscc_conf:system/etc/psdata/stepscc_conf \
     vendor/sony/montblanc-common/proprietary/etc/psdata/sterc_script_connect:system/etc/psdata/sterc_script_connect \
     vendor/sony/montblanc-common/proprietary/etc/psdata/sterc_script_disconnect_dun:system/etc/psdata/sterc_script_disconnect_dun \
+    vendor/sony/montblanc-common/proprietary/etc/plmn.latam.list:system/etc/plmn.latam.list \
+    vendor/sony/montblanc-common/proprietary/lib/libbluedroid.so:system/lib/libbluedroid.so \
+    vendor/sony/montblanc-common/proprietary/lib/libbluetooth.so:system/lib/libbluetooth.so \
+    vendor/sony/montblanc-common/proprietary/lib/libbluetoothd.so:system/lib/libbluetoothd.so \
     vendor/sony/montblanc-common/proprietary/etc/bluetooth/input.conf:system/etc/bluetooth/input.conf \
     vendor/sony/montblanc-common/proprietary/etc/bluetooth/audio.conf:system/etc/bluetooth/audio.conf \
     vendor/sony/montblanc-common/proprietary/etc/bluetooth/network.conf:system/etc/bluetooth/network.conf \
